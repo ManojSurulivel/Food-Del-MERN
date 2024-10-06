@@ -2,8 +2,8 @@
 
  Project Description:
 
- A full-stack food delivery app that allows users to browse menus, add items to the cart, and place orders. It also includes an admin interface to manage restaurants, menu items, and 
- customer orders. The app is built using React.js for the frontend, Node.js for the backend, and MongoDB for the database.
+ This is my full-stack food delivery app that allows users to browse menus, add items to the cart, and place orders. It also includes an admin interface to manage restaurants, menu 
+ items, and customer orders. The app is built using React.js for the frontend, Node.js for the backend, and MongoDB for the database.
 
  TECHNOLOGIES USED:
 
@@ -41,7 +41,7 @@ Ensure you have the following installed:
  
 * MongoDB
 
-I.INSTALLATION:
+INSTALLATION:
 
 1.Clone the repository:
 
@@ -61,7 +61,7 @@ npm install
 
 * select React, JavaScript,
 
-* cd front-end,
+* cd frontend,
 
 * npm install,
 
@@ -83,7 +83,7 @@ npm run server
 
 2. Start the frontend server:
 
-cd front-end
+cd frontend
 
 npm run dev
 
