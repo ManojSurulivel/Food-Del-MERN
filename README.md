@@ -95,3 +95,31 @@ http://localhost:4000/api for the backend,
 
 http://localhost:5174 to see the admin panel
 
+
+Starred Repositories
+Food-Del-MERN
+
+Description: This is a full-stack food delivery application built using the MERN stack (MongoDB, Express, React.js, Node.js). The app allows users to browse restaurants, view menus, and place orders. It includes user authentication, payment integration, and order tracking features.
+Technologies Used: MongoDB, Express.js, React.js, Node.js, CSS.
+Why Starred: This project showcases my full-stack development skills using the MERN stack. It's a great example of how to build scalable web applications with dynamic data handling and authentication.
+React-Redux-Boilerplate
+
+Description: A boilerplate project to quickly set up React applications with Redux for state management. It includes a pre-configured structure for React-Redux integration, testing with Jest, and support for styled-components.
+Technologies Used: React.js, Redux, Jest, Styled Components.
+Why Starred: Provides a clean and efficient setup for building React-Redux projects, helping me streamline my project setup for future development.
+Vite-React-Starter
+
+Description: A starter template for building fast React.js applications using Vite. The project is optimized for performance, with built-in features like HMR (Hot Module Replacement) and fast builds.
+Technologies Used: Vite, React.js, JavaScript, CSS.
+Why Starred: Excellent resource for quickly setting up React projects with Vite. It's a great way to learn and utilize Vite as a modern build tool that significantly speeds up development.
+Node-Express-RESTful-API
+
+Description: A backend template built with Node.js and Express, designed for creating scalable RESTful APIs. It includes features like JWT authentication, error handling, and role-based access control.
+Technologies Used: Node.js, Express.js, JWT, MongoDB.
+Why Starred: This repository is a valuable resource for learning how to structure and build RESTful APIs with proper authentication and error handling mechanisms.
+Material-UI-React
+
+Description: A library of React components that follow Google's Material Design principles. This project provides ready-to-use components and utilities for building beautiful user interfaces.
+Technologies Used: React.js, Material UI, JavaScript.
+Why Starred: Provides a great collection of pre-built, customizable components that make UI development faster and more consistent. Perfect for React developers focusing on front-end design.
+
