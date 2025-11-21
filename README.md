@@ -32,7 +32,7 @@ Ensure you have the following installed:
 * Node.js
 * MongoDB
 
-## Responsive Design:
+## RESPONSIVE DESIGN:
 * Mobile (< 768px): Single column layout, hamburger menu
 * Tablet (768px - 1024px): 2-column grid
 * Desktop (> 1024px): 3-column grid, full navigation
