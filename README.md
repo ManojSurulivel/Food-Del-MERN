@@ -109,3 +109,27 @@ http://localhost:5174 to see the admin panel
    and authentication.
    React-Redux-Boilerplate
 
+### FOOD-DEL MERN Project Preview
+
+## Frontend Project preview
+
+<img width="1440" height="854" alt="Screenshot 2025-11-21 at 8 31 24 PM" src="https://github.com/user-attachments/assets/6e6f4a12-dbd1-4341-b1da-5d8bace9ba07" />
+<img width="1440" height="854" alt="Screenshot 2025-11-21 at 8 31 44 PM" src="https://github.com/user-attachments/assets/efae6bb1-62b8-46b0-8eb0-df94fd22f0c1" />
+<img width="1440" height="854" alt="Screenshot 2025-11-21 at 8 32 05 PM" src="https://github.com/user-attachments/assets/95eb8f17-eb0f-4c8d-8929-ef2ea018ac04" />
+<img width="1440" height="854" alt="Screenshot 2025-11-21 at 8 32 15 PM" src="https://github.com/user-attachments/assets/d1c63271-7619-42df-95ed-efceda3ee341" />
+<img width="1440" height="855" alt="Screenshot 2025-11-21 at 8 33 20 PM" src="https://github.com/user-attachments/assets/d17d3e91-3806-43ed-a2da-7ba5f041d1d4" />
+
+## Backend Running Successfully
+<img width="1440" height="275" alt="Screenshot 2025-11-21 at 8 32 59 PM" src="https://github.com/user-attachments/assets/76c5538a-74b9-48b2-8038-d8e8f3a90c35" />
+
+## Admin-Page Running Successfully
+
+<img width="1440" height="854" alt="Screenshot 2025-11-21 at 8 32 29 PM" src="https://github.com/user-attachments/assets/d7e06de7-85c3-4da2-828c-18f79376c9ee" />
+<img width="1440" height="854" alt="Screenshot 2025-11-21 at 8 32 39 PM" src="https://github.com/user-attachments/assets/1bddc172-997e-415f-93d4-0314642c636e" />
+
+
+
+
+
+   
+
