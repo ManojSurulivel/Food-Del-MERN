@@ -9,10 +9,10 @@
 
 ## TECHNOLOGIES USED:
 
- Frontend: HTML, CSS, JavaScript, React.js
- Backend: Node.js, Express.js
- Database: MongoDB
- Version Control: Git, GitHub
+ * Frontend: HTML, CSS, JavaScript, React.js
+ * Backend: Node.js, Express.js
+ * Database: MongoDB
+ * Version Control: Git, GitHub
 
 ## FEATURES:
 
@@ -38,8 +38,8 @@ Ensure you have the following installed:
 git clone https://github.com/your-username/food-delivery-app.git
 
 ### 2. Install BACKEND dependencies:-
-cd backend
-npm install
+* cd backend
+* npm install
 
 ### 3.Install FRONTEND dependencies: Vite is a modern frontend build tool that offers a faster and leaner development experience for web projects,including React applications.Using vite@latest for React provides several benefits compared to older tools like Webpack or Create React App (CRA).
 
@@ -51,8 +51,8 @@ npm install
 * npm run dev
 
 ### 4.Install FRONTEND ADMIN PAGE dependencies:-
-cd admin
-npm install
+* cd admin
+* npm install
 
 ### 5.Environment Variables
 Create a .env file in the backend directory with the following variables:
@@ -65,27 +65,27 @@ PORT=4000
 
 ### 1. Start the backend server:
 
-cd backend
-npm run server
+* cd backend
+* npm run server
 
 ### 2. Start the frontend server:
 
-cd frontend
-npm run dev
+* cd frontend
+* npm run dev
 
 ### 3. Start the Admin page server:
 
-cd admin
-npm run dev
+* cd admin
+* npm run dev
 
 ## Open your BROWSER and VISIT:
 
-http://localhost:5173 to see the frontend, 
-http://localhost:4000/api for the backend, 
-http://localhost:5174 to see the admin panel
+* http://localhost:5173 to see the frontend, 
+* http://localhost:4000/api for the backend, 
+* http://localhost:5174 to see the admin panel
 
 
-# BEST STARED REPOSITORIES⭐️:-
+# BEST STARED REPOSITORIES ⭐️
 
 ## Food-Del-MERN:
    
@@ -94,12 +94,17 @@ http://localhost:5174 to see the admin panel
    menus, and place orders. It includes user authentication, payment integration, and order tracking features.
 
    ### Technologies Used:
-   MongoDB, Express.js, React.js, Node.js, CSS.
+   * HTML,
+   * CSS,
+   * JavaScript,
+   * React.js,
+   * Node.js,
+   * Express.js,
+   * MongoDB.
 
    ### Why Starred:
    This project showcases my full-stack development skills using the MERN stack. It's a great example of how to build scalable web applications with dynamic data handling 
-   and authentication.
-   React-Redux-Boilerplate
+   and authentication, and also handling React-Redux-Boilerplate.
 
 # FOOD-DEL PROJECT PREVIEWS:- (MERN)
 
