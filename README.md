@@ -34,24 +34,25 @@ Ensure you have the following installed:
 
 ## INSTALLATION:
 
-### 1.Clone the repository:-
+### 1. Clone the repository:-
 git clone https://github.com/your-username/food-delivery-app.git
 
-### 2. Install BACKEND dependencies:-
-* cd backend
-* npm install
-
-### 3.Install FRONTEND dependencies: Vite is a modern frontend build tool that offers a faster and leaner development experience for web projects,including React applications.Using vite@latest for React provides several benefits compared to older tools like Webpack or Create React App (CRA).
+### 2. Install FRONTEND dependencies: 
+Using vite@latest for React provides several benefits compared to older tools like Webpack or Create React App (CRA).
 
 * npm create vite@latest,
 * project name,
-* select React, JavaScript,
+* select -> React, JavaScript,
 * cd frontend,
 * npm install,
 * npm run dev
 
-### 4.Install FRONTEND ADMIN PAGE dependencies:-
+### 3. Install FRONTEND ADMIN PAGE dependencies:-
 * cd admin
+* npm install
+
+### 4. Install BACKEND dependencies:-
+* cd backend
 * npm install
 
 ### 5.Environment Variables
@@ -61,7 +62,7 @@ MONGO_URI=your-mongodb-connection-string
 JWT_SECRET=your-jwt-secret-key
 PORT=4000
 
-## Running the Application:-
+# Running the Application:-
 
 ### 1. Start the backend server:
 
@@ -90,8 +91,8 @@ PORT=4000
 ## Food-Del-MERN:
    
    ### Description: 
-   This is a full-stack food delivery application built using the MERN stack (MongoDB, Express, React.js, Node.js). The app allows users to browse restaurants, view 
-   menus, and place orders. It includes user authentication, payment integration, and order tracking features.
+   This is a full-stack food delivery application built using the MERN stack (MongoDB, Express, React.js, Node.js).
+   The app allows users to browse restaurants, view menus, and place orders. It includes user authentication, payment integration, and order tracking features.
 
    ### Technologies Used:
    * HTML,
@@ -126,7 +127,7 @@ PORT=4000
 
 
 
-### HAPPY CODING!
+# HAPPY CODING!!!
 
 
 
