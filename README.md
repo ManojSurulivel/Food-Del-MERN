@@ -114,6 +114,8 @@ PORT=4000
 
 # FOOD-DEL PROJECT PREVIEWS:- (MERN)
 
+## Project Deploy Link: https://food-del-mern-manojs.netlify.app/
+
 ## Frontend Running Successfully
 
 <img width="1440" height="854" alt="Screenshot 2025-11-21 at 8 31 24 PM" src="https://github.com/user-attachments/assets/6e6f4a12-dbd1-4341-b1da-5d8bace9ba07" />
