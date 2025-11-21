@@ -109,7 +109,7 @@ http://localhost:5174 to see the admin panel
    and authentication.
    React-Redux-Boilerplate
 
-### FOOD-DEL MERN Project Preview
+# FOOD-DEL MERN PROJECT PREVIEWS
 
 ## Frontend Project preview
 
